@@ -1,0 +1,5 @@
+com\dockerpostgres\dockerpostgres\entity\People.class
+com\dockerpostgres\dockerpostgres\controller\PeopleController.class
+com\dockerpostgres\dockerpostgres\DockerPostgresApplication.class
+com\dockerpostgres\dockerpostgres\repository\PeopleRepository.class
+com\dockerpostgres\dockerpostgres\service\PeopleService.class
